@@ -67,4 +67,5 @@ elif player == 2 and pc == 1:
         print("You win")
 else:
         print("You lose!")
+        # Completed Day 4 - Rock Paper Scissors
 
